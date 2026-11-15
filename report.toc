@@ -1,28 +1,28 @@
 \contentsline {section}{\numberline {1}Introduction}{4}{section.1}%
 \contentsline {subsection}{\numberline {1.1}Organisation Background}{4}{subsection.1.1}%
 \contentsline {subsubsection}{\numberline {1.1.1}Business Vision, Mission \& Value}{4}{subsubsection.1.1.1}%
-\contentsline {subsubsection}{\numberline {1.1.2}Business Aims and Objectives}{4}{subsubsection.1.1.2}%
-\contentsline {section}{\numberline {2}Transformation Necessity}{5}{section.2}%
-\contentsline {subsection}{\numberline {2.1}Problem}{5}{subsection.2.1}%
-\contentsline {subsubsection}{\numberline {2.1.1}Situation}{5}{subsubsection.2.1.1}%
-\contentsline {subsection}{\numberline {2.2}Requirements}{5}{subsection.2.2}%
-\contentsline {section}{\numberline {3}Proposed Solution}{6}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Options Considered}{6}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}Recommendations}{6}{subsection.3.2}%
-\contentsline {subsubsection}{\numberline {3.2.1}Link to Business and Digital Strategy}{6}{subsubsection.3.2.1}%
-\contentsline {subsubsection}{\numberline {3.2.2}Expected Position}{6}{subsubsection.3.2.2}%
-\contentsline {section}{\numberline {4}Project Management}{7}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Scope and Objectives}{7}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}Costing}{7}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3}Project Approach}{7}{subsection.4.3}%
-\contentsline {subsection}{\numberline {4.4}Risk Management}{7}{subsection.4.4}%
-\contentsline {subsection}{\numberline {4.5}Work Breakdown Structure}{7}{subsection.4.5}%
-\contentsline {subsection}{\numberline {4.6}Road Map}{7}{subsection.4.6}%
-\contentsline {section}{\numberline {5}Business Case}{7}{section.5}%
-\contentsline {subsection}{\numberline {5.1}Improvement to competitive advantage}{7}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2}Legal, Ethical, Social and Professional Standards}{7}{subsection.5.2}%
-\contentsline {subsection}{\numberline {5.3}Sustainability}{7}{subsection.5.3}%
-\contentsline {section}{\numberline {6}Appendices}{8}{section.6}%
-\contentsline {subsection}{\numberline {6.1}Classical Organisation Theory}{8}{subsection.6.1}%
-\contentsline {subsection}{\numberline {6.2}Organisation System Theory}{9}{subsection.6.2}%
-\contentsline {subsection}{\numberline {6.3}Action Centred Leadership Theory}{10}{subsection.6.3}%
+\contentsline {subsubsection}{\numberline {1.1.2}Business Aims and Objectives}{5}{subsubsection.1.1.2}%
+\contentsline {section}{\numberline {2}Transformation Necessity}{6}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Problem}{6}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}Situation}{7}{subsubsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.2}Requirements}{7}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Proposed Solution}{8}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Options Considered}{8}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Recommendations}{8}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Link to Business and Digital Strategy}{8}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}Expected Position}{8}{subsubsection.3.2.2}%
+\contentsline {section}{\numberline {4}Project Management}{9}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Scope and Objectives}{9}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Costing}{9}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Project Approach}{9}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Risk Management}{9}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Work Breakdown Structure}{9}{subsection.4.5}%
+\contentsline {subsection}{\numberline {4.6}Road Map}{9}{subsection.4.6}%
+\contentsline {section}{\numberline {5}Business Case}{10}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Improvement to competitive advantage}{10}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Legal, Ethical, Social and Professional Standards}{10}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Sustainability}{10}{subsection.5.3}%
+\contentsline {section}{\numberline {6}Appendices}{11}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Classical Organisation Theory}{11}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Organisation System Theory}{12}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}Action Centred Leadership Theory}{13}{subsection.6.3}%

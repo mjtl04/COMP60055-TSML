@@ -2374,6 +2374,20 @@
     <bcf:datasource type="file" datatype="bibtex" glob="false">references.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
+    <bcf:citekey order="1" intorder="1">rpl-philosophy</bcf:citekey>
+    <bcf:citekey order="2" intorder="1">rpl-core-values</bcf:citekey>
+    <bcf:citekey order="3" intorder="1">rpl-vision-mission-values</bcf:citekey>
+    <bcf:citekey order="4" intorder="1">rpl-environmental</bcf:citekey>
+    <bcf:citekey order="5" intorder="1">rpl-business</bcf:citekey>
+    <bcf:citekey order="6" intorder="1">rpl-social</bcf:citekey>
+    <bcf:citekey order="7" intorder="1">co-creation</bcf:citekey>
+    <bcf:citekey order="8" intorder="1">rpl-governance</bcf:citekey>
+    <bcf:citekey order="9" intorder="1">rpl-philosophy</bcf:citekey>
+    <bcf:citekey order="10" intorder="1">rpl-business</bcf:citekey>
+    <bcf:citekey order="11" intorder="1">eu-microsoft-shift</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">classical-management-theory</bcf:citekey>
+    <bcf:citekey order="13" intorder="1">organisation-system-theory</bcf:citekey>
+    <bcf:citekey order="14" intorder="1">action-centred-theory</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nyt">
@@ -2405,4 +2419,14 @@
     </bcf:sort>
   </bcf:sortingtemplate>
   <!-- DATALISTS -->
+  <bcf:datalist section="0"
+                name="nyt/global//global/global/global"
+                type="entry"
+                sortingtemplatename="nyt"
+                sortingnamekeytemplatename="global"
+                labelprefix=""
+                uniquenametemplatename="global"
+                labelalphanametemplatename="global"
+                namehashtemplatename="global">
+  </bcf:datalist>
 </bcf:controlfile>

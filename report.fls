@@ -208,6 +208,17 @@ INPUT ./report.lof
 INPUT ./report.lof
 INPUT report.lof
 OUTPUT report.lof
+INPUT ./media/rpl-logo.png
+INPUT ./media/rpl-logo.png
+INPUT ./media/rpl-logo.png
+INPUT ./media/rpl-logo.png
+INPUT ./media/rpl-logo.png
+INPUT ./media/rpl-values.png
+INPUT ./media/rpl-values.png
+INPUT ./media/rpl-values.png
+INPUT ./media/rpl-values.png
+INPUT ./media/rpl-values.png
+INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmti10.tfm
 INPUT ./media/Classical Organisation Structure.png
 INPUT ./media/Classical Organisation Structure.png
 INPUT ./media/Classical Organisation Structure.png
@@ -223,6 +234,8 @@ INPUT ./media/Action Centred Leadership.png
 INPUT ./media/Action Centred Leadership.png
 INPUT ./media/Action Centred Leadership.png
 INPUT ./media/Action Centred Leadership.png
+INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmcsc10.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmtt10.tfm
 INPUT report.aux
 INPUT ./report.out
 INPUT ./report.out
@@ -230,5 +243,8 @@ INPUT report.run.xml
 OUTPUT report.run.xml
 INPUT /usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 INPUT /usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+INPUT /usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb
 INPUT /usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
 INPUT /usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
+INPUT /usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb
+INPUT /usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb

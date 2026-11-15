@@ -56,23 +56,122 @@ Ricoh UK Products Ltd is a leading provider of products and goods, focusing on t
 IoT Digital Operations department deploys software solutions to meet company improvements and objectives.
 Server side web applications are Currently hosted on on-premis IIS (Internet Inforamtion Services) servers.
 However, the organisation requests a migratation to imrpove response rate for stakeholders, use more compatible software, incorporate automation, improve performance and more.
-\\
 
 \subsection{Organisation Background}
 RPL (Ricoh Products Ltd), established in 1983, is a United Kingdom arm of the larger Japanese Ricoh group.
 RPL provide print solutions, ink supplies and technical services. 
+As detailed in Appendices, Ricoh Products Ltd complies with many management theories to deliver employee and customer satisfaction, as well as increase performance efficiency.
+
+\begin{figure}[h]
+    \includegraphics[width=4cm]{media/rpl-logo.png}
+    \centering
+    \caption{Ricoh UK Products Ltd Logo}
+    \label{fig:rpl-logo}
+\end{figure}
 
 \subsubsection{Business Vision, Mission \& Value}
+ Ricoh UK Products Ltd strongly focuses on employee satisfaction and providing individuals with "Fullfilment through work".
+ RPL's mission is to transform how people work, leading to sustainable environemnts, high job satisfaction and economic growth \parencite{rpl-philosophy}.
+ Ricoh's core values include Customer-Centric, Passion, Gemba, Innovation, Teamwork, Winning Spirit as well as Ethics and Integrity \parencite{rpl-core-values}.
 
+\vspace{0.5cm}
+\begin{figure}[h]
+    \includegraphics[width=15cm]{media/rpl-values.png}
+    \centering
+    \caption{Ricoh UK Products Ltd 7 Values}
+    \label{fig:rpl-values}
+\end{figure}
 
+\pagebreak{}
 
 \subsubsection{Business Aims and Objectives}
+Ricoh Products Ltd overall mission compromises of emppowering employees to find fullfilment through work, align with the companies 7 core values and implement the founding principle, The Spirit of Three Loves.
+This includes, "Love your neighbour, Love your country, Love your Work" \parencite{rpl-vision-mission-values}.
+\\
+
+Table \ref{tab:rpl-aims-objectives} evidences RPL's core aims and objectives for delivering operational excellence and providing fullfilment to their employees.
+
+\begin{table}[h!]
+    \centering
+    \caption{Ricoh RPL Aims \& Objectives}
+    \label{tab:rpl-aims-objectives}
+    \begin{tabular}{|p{0.7cm}|p{6cm}|p{7.5cm}|}
+        \hline
+        \textbf{Id} & \textbf{Aims}        & \textbf{Objectives}                                                                                                                                                                                                                   \\
+        \hline
+        1
+        & Deliver products and services with operational and technical excellence to power digital print services.
+        & Ricoh UK Products Ltd targets Net Zero by 2030 and has developed a CO2 reduction roadmap with key investments required \parencite{rpl-environmental}. \\
+        \hline
+        2
+        & Contribute to a sustainable future and enable employee fullfilment through work. \parencite{rpl-business}
+        & Resolve social issues through business, alligning with ESG with business growth. Encouraging staff to make strong social contributions \parencite{rpl-social}. \\
+        \hline
+        3
+        & Co-create with customers and partners, enabling UK manufacturing to meet strict requirements, contributing to UN's sustainable development \parencite{co-creation}.
+        & Directly align with policies and practices directed towards a sustainable future through the Ricoh Way. A governance structure, employee training and risk management information framework \parencite{rpl-governance} \\
+        \hline
+        4
+        & Support wider UK manufacturing through employee lean engagement programme, with Ricoh's 85 year manufacturing and continuous improvement experience \parencite{rpl-philosophy}.
+        & RPL aims to use technical and operational excellence to power digital print devices through toner filling and assembly, toner bottle recycling and moulding, enabling Fulfilment through Work and contributing to a sustainable future \parencite{rpl-business}. \\
+        \hline
+    \end{tabular}
+\end{table}
+
+As listed in Table \ref{tab:rpl-aims-objectives}, RPL’s aims as a manufacturing business to supply digital print devices with technical and operational excellence, while providing sustainability work and the Ricoh Way philosophy of Fulfilment through Work (Table \ref{tab:rpl-aims-objectives}, 1A, 4O).
+In addition, Ricoh strongly aims for sustainablilty through Net Zero targets and CO2 reduction roadmaps (2O, 3A).
+Ricoh's aims are broad and based on it's values, with objectives mostly environmental and framework based.
+Furthermore, Ricoh's mission is to implelement the stated sustainable and social aims, into it's operational functions and production (3O, 2A)
 
 
 \pagebreak{}
 \section{Transformation Necessity}
 \subsection{Problem}
-mention the top 5 issues, rank them. 
+Internet Information Services (IIS) has a number of limitations that provide justification to transition into other software containing more advanced features and greater compatibility. 
+Table \ref{tab:iis-drawbacks} below illustrates and ranks top 5 issues using IIS as a hosting service within Ricoh UK Product's Ltd infrastructure.
+
+\begin{table}[h!]
+    \centering
+    \caption{IIS Ranked Negatives}
+    \label{tab:iis-drawbacks}
+    \begin{tabular}{|p{0.7cm}|p{3cm}|p{10cm}|}
+        \hline
+        \textbf{Id} & \textbf{Issue}        & \textbf{Description}                                                                                                                                                                                                                   \\
+        \hline
+        1
+        & Performance \& Resource Use
+        & Other solutions such as Nginx or Caddy handle concurrent connections and static content with less memory usage. In addition, faster options exist with more performance optimisation and customisation. \\
+        \hline
+        2
+        & Windows Lock In
+        & IIS runs strictly on Windows Servers, requiring high license costs and a larger Operating System. In addition, many EU goverments are transitioning from proprietary Microsoft platforms \parencite{eu-microsoft-shift}. \\
+        \hline
+        3
+        & Config as Code
+        & Many different solutins such as Apache, provide plaint text configuration files that can be used with version control and automated CI/CD. This method greater aligns with RPL's IOT Operations departments policy and method of deploying software. \\
+        \hline
+        4
+        & Ecosystem
+        & Programming languages such as Node, Python, PHP, Go and Ruby have more documentation and are better supported on linux based web servers. This would provide greater compatiabilty with RPL's other infrastructure and products. \\
+        \hline
+        5
+        & TLS \& Troubleshooting
+        & IIS requires additional work to renew Lets Encrypt certificates, where other solutions provide automate renewal. Furthermore, IIS provides vauge error messages and has uses a complex layered configuration inheritance. \\
+        \hline
+    \end{tabular}
+\end{table}
+
+\emph{Smaller Id indicates greater issue.}
+\\
+
+Table~\ref{tab:iis-drawbacks} shows that the drawbacks of IIS come down to cost, compatibility and operational overhead.
+Its higher resource use and dependence on licensed Windows Servers (1, 2) make it more expensive to run and scale than lightweight alternatives, whilst EU governments shift away from Microsoft raising future concerns with compliance and compatibility.
+IIS' configuration and weaker support for languages such as Node, Python and PHP (3, 4) also make it a poor fit for RPL’s automated deployment approach, since these are the practices IOT Operations department request.
+Finally, manual certificate renewal and vague error messages (5) add ongoing maintenance effort, which compounds the other issues.
+
+
+\pagebreak{}
+
 
 \subsubsection{Situation}
 
@@ -114,6 +213,7 @@ decision matrix in here?
 \subsection{Work Breakdown Structure}
 \subsection{Road Map}
 
+\pagebreak{}
 \section{Business Case}
 \subsection{Improvement to competitive advantage}
 \subsection{Legal, Ethical, Social and Professional Standards}
@@ -123,7 +223,7 @@ decision matrix in here?
 \section{Appendices}
 
 \subsection{Classical Organisation Theory}
-Classical Organisation Theory analysis an organisaton's structure and management to coordinate focus and improve efficiency. 
+Classical Organisation Theory analysis an organisaton's structure and management to coordinate focus and improve efficiency \parencite{classical-management-theory}.
 Ricoh UK Products Ltd contains a clear hierarchical structure through designated job roles and departments that focus on related core processes.
 Each department is responsible for its assigned tasks, contributing to overall business growth and direction. 
 \\
@@ -145,7 +245,7 @@ Roles are split into ranks and titles, including Directors, General Managers and
 \pagebreak{}
 \subsection{Organisation System Theory}
 
-Organisation System Thoery views a corporation as an embedded system with interrelated groups working together towards a common goal.
+Organisation System Thoery views a corporation as an embedded system with interrelated groups working together towards a common goal \parencite{organisation-system-theory}.
 This theory incorporates departments, people, technology as well as exterior factors.
 One change in a given area affects other areas working closely with the origin.
 \\
@@ -167,7 +267,7 @@ As a result, Ricoh systematically adapts to change as a living organism, to impr
 
 \pagebreak{}
 \subsection{Action Centred Leadership Theory}
-(ACL) Action Centred Leadership explains effective leadership manages areas of need, including Task, Team and Individual.
+(ACL) Action Centred Leadership explains effective leadership manages areas of need, including Task, Team and Individual \parencite{action-centred-theory}.
 This method is a functional approach to leadership, attending to organisational tasks, efficiency as well as human relations with employees.
 \\
 
@@ -175,7 +275,7 @@ Figure \ref{fig:ActionCentredLeadership} below, pictures the three main categori
 
 \vspace{0.5cm}
 \begin{figure}[h]
-    \includegraphics[width=12cm]{media/Action Centred Leadership.png}
+    \includegraphics[width=10cm]{media/Action Centred Leadership.png}
     \centering
     \caption{Action Centred Leadership}
     \label{fig:ActionCentredLeadership}
@@ -187,8 +287,7 @@ Departments participate in regular meetings, discussing progress and challenges,
 Business goals and department objectives are shared within teams, ensuring each employee is aware and working towards the company vision. 
 
 
-
-
-% references
+\pagebreak{}
+\printbibliography
 
 \end{document}

@@ -16,5 +16,424 @@
   {}
 \endgroup
 
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global/global}
+    \entry{eu-microsoft-shift}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=425643c331bfe75af65279fc78f27b63}{%
+           family={{2-Data}},
+           familyi={2\bibinitperiod}}}%
+      }
+      \strng{namehash}{425643c331bfe75af65279fc78f27b63}
+      \strng{fullhash}{425643c331bfe75af65279fc78f27b63}
+      \strng{fullhashraw}{425643c331bfe75af65279fc78f27b63}
+      \strng{bibnamehash}{425643c331bfe75af65279fc78f27b63}
+      \strng{authorbibnamehash}{425643c331bfe75af65279fc78f27b63}
+      \strng{authornamehash}{425643c331bfe75af65279fc78f27b63}
+      \strng{authorfullhash}{425643c331bfe75af65279fc78f27b63}
+      \strng{authorfullhashraw}{425643c331bfe75af65279fc78f27b63}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Co-creation key to sustainable manufacturing and the world of print}
+      \field{urlday}{15}
+      \field{urlmonth}{11}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://2-data.com/knowledge-hub/a-search-for-digital-sovereignty-eu-governments-shift-from-microsoft-to-linux-libreoffice/
+      \endverb
+      \verb{url}
+      \verb https://2-data.com/knowledge-hub/a-search-for-digital-sovereignty-eu-governments-shift-from-microsoft-to-linux-libreoffice/
+      \endverb
+    \endentry
+    \entry{classical-management-theory}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c257a84b9fbc42cba27052de1b92ba3d}{%
+           family={{EBCSCO}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{c257a84b9fbc42cba27052de1b92ba3d}
+      \strng{fullhash}{c257a84b9fbc42cba27052de1b92ba3d}
+      \strng{fullhashraw}{c257a84b9fbc42cba27052de1b92ba3d}
+      \strng{bibnamehash}{c257a84b9fbc42cba27052de1b92ba3d}
+      \strng{authorbibnamehash}{c257a84b9fbc42cba27052de1b92ba3d}
+      \strng{authornamehash}{c257a84b9fbc42cba27052de1b92ba3d}
+      \strng{authorfullhash}{c257a84b9fbc42cba27052de1b92ba3d}
+      \strng{authorfullhashraw}{c257a84b9fbc42cba27052de1b92ba3d}
+      \field{extraname}{1}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Classical Management Theory}
+      \field{urlday}{14}
+      \field{urlmonth}{11}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.ebsco.com/research-starters/business-and-management/classical-management-theory/
+      \endverb
+      \verb{url}
+      \verb https://www.ebsco.com/research-starters/business-and-management/classical-management-theory/
+      \endverb
+    \endentry
+    \entry{organisation-system-theory}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c257a84b9fbc42cba27052de1b92ba3d}{%
+           family={{EBCSCO}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{c257a84b9fbc42cba27052de1b92ba3d}
+      \strng{fullhash}{c257a84b9fbc42cba27052de1b92ba3d}
+      \strng{fullhashraw}{c257a84b9fbc42cba27052de1b92ba3d}
+      \strng{bibnamehash}{c257a84b9fbc42cba27052de1b92ba3d}
+      \strng{authorbibnamehash}{c257a84b9fbc42cba27052de1b92ba3d}
+      \strng{authornamehash}{c257a84b9fbc42cba27052de1b92ba3d}
+      \strng{authorfullhash}{c257a84b9fbc42cba27052de1b92ba3d}
+      \strng{authorfullhashraw}{c257a84b9fbc42cba27052de1b92ba3d}
+      \field{extraname}{2}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Organisational System Theory}
+      \field{urlday}{14}
+      \field{urlmonth}{11}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.ebsco.com/research-starters/economics/organizational-theory/
+      \endverb
+      \verb{url}
+      \verb https://www.ebsco.com/research-starters/economics/organizational-theory/
+      \endverb
+    \endentry
+    \entry{co-creation}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6492c84bb1427f442fbe8ef5e7bb8b9a}{%
+           family={{ExecutiveTV}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{6492c84bb1427f442fbe8ef5e7bb8b9a}
+      \strng{fullhash}{6492c84bb1427f442fbe8ef5e7bb8b9a}
+      \strng{fullhashraw}{6492c84bb1427f442fbe8ef5e7bb8b9a}
+      \strng{bibnamehash}{6492c84bb1427f442fbe8ef5e7bb8b9a}
+      \strng{authorbibnamehash}{6492c84bb1427f442fbe8ef5e7bb8b9a}
+      \strng{authornamehash}{6492c84bb1427f442fbe8ef5e7bb8b9a}
+      \strng{authorfullhash}{6492c84bb1427f442fbe8ef5e7bb8b9a}
+      \strng{authorfullhashraw}{6492c84bb1427f442fbe8ef5e7bb8b9a}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Co-creation key to sustainable manufacturing and the world of print}
+      \field{urlday}{15}
+      \field{urlmonth}{11}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.executivetv.org/en/blog/post/co-creation-key-to-sustainable-manufacturing-and-the-world-of-print
+      \endverb
+      \verb{url}
+      \verb https://www.executivetv.org/en/blog/post/co-creation-key-to-sustainable-manufacturing-and-the-world-of-print
+      \endverb
+    \endentry
+    \entry{rpl-core-values}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3544f50dcafbd856f24935e2127311c8}{%
+           family={{Ricoh Imagine Change}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{3544f50dcafbd856f24935e2127311c8}
+      \strng{fullhash}{3544f50dcafbd856f24935e2127311c8}
+      \strng{fullhashraw}{3544f50dcafbd856f24935e2127311c8}
+      \strng{bibnamehash}{3544f50dcafbd856f24935e2127311c8}
+      \strng{authorbibnamehash}{3544f50dcafbd856f24935e2127311c8}
+      \strng{authornamehash}{3544f50dcafbd856f24935e2127311c8}
+      \strng{authorfullhash}{3544f50dcafbd856f24935e2127311c8}
+      \strng{authorfullhashraw}{3544f50dcafbd856f24935e2127311c8}
+      \field{extraname}{1}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{RPL Core Values}
+      \field{urlday}{14}
+      \field{urlmonth}{11}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.ricoh.co.th/en/features/the-foundation-driving-sustainable-success
+      \endverb
+      \verb{url}
+      \verb https://www.ricoh.co.th/en/features/the-foundation-driving-sustainable-success
+      \endverb
+    \endentry
+    \entry{rpl-philosophy}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3544f50dcafbd856f24935e2127311c8}{%
+           family={{Ricoh Imagine Change}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{3544f50dcafbd856f24935e2127311c8}
+      \strng{fullhash}{3544f50dcafbd856f24935e2127311c8}
+      \strng{fullhashraw}{3544f50dcafbd856f24935e2127311c8}
+      \strng{bibnamehash}{3544f50dcafbd856f24935e2127311c8}
+      \strng{authorbibnamehash}{3544f50dcafbd856f24935e2127311c8}
+      \strng{authornamehash}{3544f50dcafbd856f24935e2127311c8}
+      \strng{authorfullhash}{3544f50dcafbd856f24935e2127311c8}
+      \strng{authorfullhashraw}{3544f50dcafbd856f24935e2127311c8}
+      \field{extraname}{2}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{RPL Corporate Philosophy}
+      \field{urlday}{14}
+      \field{urlmonth}{11}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://ukproducts.ricoh.com/news-press/news/ricoh-named-in-time-worlds-most-sustainable-companies-of-2025/
+      \endverb
+      \verb{url}
+      \verb https://ukproducts.ricoh.com/news-press/news/ricoh-named-in-time-worlds-most-sustainable-companies-of-2025/
+      \endverb
+    \endentry
+    \entry{rpl-environmental}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3544f50dcafbd856f24935e2127311c8}{%
+           family={{Ricoh Imagine Change}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{3544f50dcafbd856f24935e2127311c8}
+      \strng{fullhash}{3544f50dcafbd856f24935e2127311c8}
+      \strng{fullhashraw}{3544f50dcafbd856f24935e2127311c8}
+      \strng{bibnamehash}{3544f50dcafbd856f24935e2127311c8}
+      \strng{authorbibnamehash}{3544f50dcafbd856f24935e2127311c8}
+      \strng{authornamehash}{3544f50dcafbd856f24935e2127311c8}
+      \strng{authorfullhash}{3544f50dcafbd856f24935e2127311c8}
+      \strng{authorfullhashraw}{3544f50dcafbd856f24935e2127311c8}
+      \field{extraname}{3}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradate}{3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{RPL Environmental}
+      \field{urlday}{14}
+      \field{urlmonth}{11}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://ukproducts.ricoh.com/about-us/ricoh-uk-products-ltd/esg/environmental/
+      \endverb
+      \verb{url}
+      \verb https://ukproducts.ricoh.com/about-us/ricoh-uk-products-ltd/esg/environmental/
+      \endverb
+    \endentry
+    \entry{rpl-governance}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3544f50dcafbd856f24935e2127311c8}{%
+           family={{Ricoh Imagine Change}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{3544f50dcafbd856f24935e2127311c8}
+      \strng{fullhash}{3544f50dcafbd856f24935e2127311c8}
+      \strng{fullhashraw}{3544f50dcafbd856f24935e2127311c8}
+      \strng{bibnamehash}{3544f50dcafbd856f24935e2127311c8}
+      \strng{authorbibnamehash}{3544f50dcafbd856f24935e2127311c8}
+      \strng{authornamehash}{3544f50dcafbd856f24935e2127311c8}
+      \strng{authorfullhash}{3544f50dcafbd856f24935e2127311c8}
+      \strng{authorfullhashraw}{3544f50dcafbd856f24935e2127311c8}
+      \field{extraname}{4}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradate}{4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{RPL Governance}
+      \field{urlday}{14}
+      \field{urlmonth}{11}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://ukproducts.ricoh.com/about-us/ricoh-uk-products-ltd/esg/governance/
+      \endverb
+      \verb{url}
+      \verb https://ukproducts.ricoh.com/about-us/ricoh-uk-products-ltd/esg/governance/
+      \endverb
+    \endentry
+    \entry{rpl-business}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3544f50dcafbd856f24935e2127311c8}{%
+           family={{Ricoh Imagine Change}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{3544f50dcafbd856f24935e2127311c8}
+      \strng{fullhash}{3544f50dcafbd856f24935e2127311c8}
+      \strng{fullhashraw}{3544f50dcafbd856f24935e2127311c8}
+      \strng{bibnamehash}{3544f50dcafbd856f24935e2127311c8}
+      \strng{authorbibnamehash}{3544f50dcafbd856f24935e2127311c8}
+      \strng{authornamehash}{3544f50dcafbd856f24935e2127311c8}
+      \strng{authorfullhash}{3544f50dcafbd856f24935e2127311c8}
+      \strng{authorfullhashraw}{3544f50dcafbd856f24935e2127311c8}
+      \field{extraname}{5}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradate}{5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{RPL Our Business}
+      \field{urlday}{14}
+      \field{urlmonth}{11}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://ukproducts.ricoh.com/about-us/ricoh-uk-products-ltd/our-business/
+      \endverb
+      \verb{url}
+      \verb https://ukproducts.ricoh.com/about-us/ricoh-uk-products-ltd/our-business/
+      \endverb
+    \endentry
+    \entry{rpl-social}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3544f50dcafbd856f24935e2127311c8}{%
+           family={{Ricoh Imagine Change}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{3544f50dcafbd856f24935e2127311c8}
+      \strng{fullhash}{3544f50dcafbd856f24935e2127311c8}
+      \strng{fullhashraw}{3544f50dcafbd856f24935e2127311c8}
+      \strng{bibnamehash}{3544f50dcafbd856f24935e2127311c8}
+      \strng{authorbibnamehash}{3544f50dcafbd856f24935e2127311c8}
+      \strng{authornamehash}{3544f50dcafbd856f24935e2127311c8}
+      \strng{authorfullhash}{3544f50dcafbd856f24935e2127311c8}
+      \strng{authorfullhashraw}{3544f50dcafbd856f24935e2127311c8}
+      \field{extraname}{6}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradate}{6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{RPL Social}
+      \field{urlday}{14}
+      \field{urlmonth}{11}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://ukproducts.ricoh.com/about-us/ricoh-uk-products-ltd/esg/social/
+      \endverb
+      \verb{url}
+      \verb https://ukproducts.ricoh.com/about-us/ricoh-uk-products-ltd/esg/social/
+      \endverb
+    \endentry
+    \entry{rpl-vision-mission-values}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3544f50dcafbd856f24935e2127311c8}{%
+           family={{Ricoh Imagine Change}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{3544f50dcafbd856f24935e2127311c8}
+      \strng{fullhash}{3544f50dcafbd856f24935e2127311c8}
+      \strng{fullhashraw}{3544f50dcafbd856f24935e2127311c8}
+      \strng{bibnamehash}{3544f50dcafbd856f24935e2127311c8}
+      \strng{authorbibnamehash}{3544f50dcafbd856f24935e2127311c8}
+      \strng{authornamehash}{3544f50dcafbd856f24935e2127311c8}
+      \strng{authorfullhash}{3544f50dcafbd856f24935e2127311c8}
+      \strng{authorfullhashraw}{3544f50dcafbd856f24935e2127311c8}
+      \field{extraname}{7}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradate}{7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{RPL Vision Missions and Values}
+      \field{urlday}{14}
+      \field{urlmonth}{11}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.ricoh-thermal.com/en/about-us/ricoh/vision-missions-and-values/
+      \endverb
+      \verb{url}
+      \verb https://www.ricoh-thermal.com/en/about-us/ricoh/vision-missions-and-values/
+      \endverb
+    \endentry
+    \entry{action-centred-theory}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a8a992111e4e3d05a2e5e8bcce5dc9bd}{%
+           family={{TSW Training}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{a8a992111e4e3d05a2e5e8bcce5dc9bd}
+      \strng{fullhash}{a8a992111e4e3d05a2e5e8bcce5dc9bd}
+      \strng{fullhashraw}{a8a992111e4e3d05a2e5e8bcce5dc9bd}
+      \strng{bibnamehash}{a8a992111e4e3d05a2e5e8bcce5dc9bd}
+      \strng{authorbibnamehash}{a8a992111e4e3d05a2e5e8bcce5dc9bd}
+      \strng{authornamehash}{a8a992111e4e3d05a2e5e8bcce5dc9bd}
+      \strng{authorfullhash}{a8a992111e4e3d05a2e5e8bcce5dc9bd}
+      \strng{authorfullhashraw}{a8a992111e4e3d05a2e5e8bcce5dc9bd}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{John Adair's Action-Centred Leadership}
+      \field{urlday}{14}
+      \field{urlmonth}{11}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.tsw.co.uk/insights/john-adairs-action-centered-leadership/
+      \endverb
+      \verb{url}
+      \verb https://www.tsw.co.uk/insights/john-adairs-action-centered-leadership/
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
 \endinput
 
